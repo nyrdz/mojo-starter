@@ -1,0 +1,19 @@
+% layout 'default';
+
+<div class="flex flex-row justify-center">
+  <div class="container py-5 h-100">
+    <div class="row d-flex justify-content-center align-items-center h-100">
+      <div class="col-12 col-md-8 col-lg-6 col-xl-5">
+        <div class="card bg-dark text-white" style="border-radius: 1rem;">
+          <div class="card-body p-5 text-center">
+            <div class="mb-md-4 mt-md-4">
+              <h2 class="fw-bold mb-2 text-uppercase">Landing page</h2>
+              <p class="text-white-50 mb-5">Welcome to nyrdz/mojo-starter</p>
+              <a href="/auth" class="btn btn-outline-light btn-lg px-5">Go /auth yourself</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
